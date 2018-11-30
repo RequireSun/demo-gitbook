@@ -1,0 +1,12 @@
+{
+  "name": "demo-gitbook",
+  "version": "0.1.0",
+  "scripts": {
+    "init": "gitbook init",
+    "serve": "gitbook serve",
+    "build": "gitbook build"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
